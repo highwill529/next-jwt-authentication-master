@@ -1,0 +1,1 @@
+# next-jwt-authentication-master
